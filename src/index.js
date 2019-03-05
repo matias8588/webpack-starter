@@ -1,4 +1,5 @@
-import 'jquery'
+import 'normalize.css'
+import './styles/style.scss'
 import 'bootstrap'
 
-console.log('hola');
+console.log('hello world')

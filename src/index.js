@@ -1,5 +1,4 @@
-import 'normalize.css'
-import './styles/style.scss'
 import 'bootstrap'
+import './scss/main.scss'
 
-console.log('hello world')
+console.log('hola')
